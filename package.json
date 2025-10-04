@@ -1,0 +1,6 @@
+{
+    "name": "bootsharp",
+    "type": "module",
+    "main": "./index.mjs",
+    "types": "types/index.d.ts"
+}
